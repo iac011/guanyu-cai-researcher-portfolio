@@ -7,7 +7,7 @@
 His research expertise spans **optical and photonic materials**, **persistent luminescence**, **optical data storage**, **nanothermometry**, and **bioimaging**.  
 Currently, Dr. Cai leads an AI-assisted, data-driven research initiative for next-generation biodegradable coronary stents which is an important work of the **[APEX Stent Project →](https://iac011.github.io/apex-stent/)**.
 
-🔗 **[Visit his personal website →](https://iac011.github.io/guanyu-cai)**
+🔗 **[Visit his personal website →](https://iac011.github.io/guanyu-cai-researcher-portfolio)**
 
 ---
 
